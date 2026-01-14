@@ -736,6 +736,8 @@ Effortless integration. For any data, including video, wherever it is. 
 
 [TinyWow](https://tinywow.com/) - PDF, video, image and other online tools to make your life easier.
 
+[Agent Skills guide](https://agentskills.guide) | The largest Agent Skills registry for claude code, codex and chatgpt | Free |
+
 ### •Prompts:
 
 [Eye for Al](https://eyeforai.xyz/) - Visual "prompt builder" to craft complex prompts, easily.
